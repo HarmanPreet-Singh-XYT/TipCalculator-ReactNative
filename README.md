@@ -11,5 +11,5 @@ Enjoy instant feedback as the app dynamically updates the total amount based on 
 Responsive Design:
 Optimized for various screen sizes, providing a seamless experience on both smartphones and tablets.
 
-How to run
+How to run,
 use 'npm run android' to get started
